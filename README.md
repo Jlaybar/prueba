@@ -3,7 +3,11 @@
 python --version
 
 
- git status
+# ver la rama en la que estas 
+git branch
+
+git status
+
 
 git version
 
@@ -16,3 +20,4 @@ git commit -m "Agrego nueva función"
 
  # repositorio remoto
 git push
+
